@@ -1,4 +1,4 @@
-# Documentation Examples
+# Documentation for Seattle Children's Interview Process
 
 This repo was created to make available documentation examples to Craig Young and team. 
 
@@ -7,23 +7,23 @@ This repo was created to make available documentation examples to Craig Young an
 - [Documentation Examples](#documentation-examples)
 - [Additional Resources](#additional-resources)
 
-{#documentation-examples}
-### Technical Documentation for technical audience 
+### Documentation Examples
+
+**Technical Documentation for technical audience**
 - [Setting up a Mac for Web Development](https://gist.github.com/jeremybwilson/31a8a7deda0504128111c519812456ec)
 
-### Technical Documentation for (non-technical) Shopify Admin end user
+**Technical Documentation for (non-technical) Shopify Admin end user**
 - [Client (redacted) - Footer Navigation Management Guide](https://github.com/jeremybwilson/documentation-examples/blob/master/Client%20Redacted%20Store%20Footer%20Navigation%20Guide.md)
 - [Client (General) Shopify Store Management Guide](https://github.com/jeremybwilson/documentation-examples/blob/master/Shopify%20MGMT%20Guide%20-%20Full.pdf)
 
-{#additional-resources}
 ### Additional Resources 
 
-Markdown Editors:
+**Markdown Editors:**
 
 - Mac ([MacDown](https://macdown.uranusjr.com/))
 - Windows ([Typora](https://typora.io/))
 
-Markdown Resources:
+**Markdown Resources:**
 
 - [Guide](https://www.markdownguide.org/)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
