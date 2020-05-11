@@ -5,7 +5,7 @@ This repo was created to make available documentation examples to Craig Young an
 Example Files:
 
 - [Client (redacted) - Footer Navigation Management Guide](https://github.com/jeremybwilson/documentation-examples/blob/master/Client%20(Redacted)%20Store%20Footer%20Navigation%20Guide.md)
-- [Client (General) Shopify Store Management Guide](https://github.com/jeremybwilson/documentation-examples/blob/master/Client%20(Redacted)%20Store%20Footer%20Navigation%20Guide.md)
+- [Client (General) Shopify Store Management Guide](https://github.com/jeremybwilson/documentation-examples/blob/master/Shopify%20MGMT%20Guide%20-%20Full.pdf)
 
 ## Additional Resources
 
