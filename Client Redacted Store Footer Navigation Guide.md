@@ -92,9 +92,11 @@ You’ll find a list of all current menus setup in your store here, as well as t
 ####Link features:
 1. **EXTERNAL (URL) LINKING:**
 	- Paste into the "Link" field any external URL.
-		- *<strong>EX:</strong> <https://--YOUR-STORE--.myshopify.com/admin/pages>*
+		- *<strong>EX:</strong> <https://--YOUR-STORE-NAME--.myshopify.com/admin/pages>*
 	- Click "Apply changes" to save your changes to the menu item.
 
+
+<center>**Finished:** You have successfully populated the Footer (main) menu.</center>
 
 <center>**Next:** How to populate the Footer (privacy) menu.</center>
 
@@ -119,3 +121,5 @@ The privacy menu in the footer is largely the same configuration as the previous
 <center>**Next:**  As before with the main footer menu, select the appropriate "Page" to link to or external URL.</center>
 
 ![Footer Navigation External Linking](https://i.imgur.com/scVHktZ.png)
+
+<center>**Finished:**  You have now successfully populated the footer copyright menu.</center>
