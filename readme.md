@@ -4,8 +4,8 @@ This repo was created to make available documentation examples to Craig Young an
 
 ## Table of Contents
 
--[Documentation Examples](#documentation-examples)
--[Additional Resources](#additional-resources)
+- [Documentation Examples](#documentation-examples)
+- [Additional Resources](#additional-resources)
 
 ### Technical Documentation for technical audience {#documentation-examples}
 - [Setting up a Mac for Web Development](https://gist.github.com/jeremybwilson/31a8a7deda0504128111c519812456ec)
