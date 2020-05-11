@@ -8,7 +8,7 @@ This repo was created to make available documentation examples to Craig Young an
 - [Additional Resources](#additional-resources)
 
 ### Documentation Examples
-
+---
 **Technical Documentation for technical audience**
 - [Setting up a Mac for Web Development](https://gist.github.com/jeremybwilson/31a8a7deda0504128111c519812456ec)
 
@@ -17,7 +17,7 @@ This repo was created to make available documentation examples to Craig Young an
 - [Client (General) Shopify Store Management Guide](https://github.com/jeremybwilson/documentation-examples/blob/master/Shopify%20MGMT%20Guide%20-%20Full.pdf)
 
 ### Additional Resources 
-
+---
 **Markdown Editors:**
 
 - Mac ([MacDown](https://macdown.uranusjr.com/))

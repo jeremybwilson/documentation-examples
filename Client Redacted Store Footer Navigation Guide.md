@@ -10,7 +10,7 @@
 
 
 **URL:**
-<http://--YOUR-STORE--.myshopify.com/admin/menus> *(<strong>EX:</strong> <https://--YOUR-STORE--.myshopify.com/admin/pages>)*
+**Ex.** http://--YOUR-STORE-NAME--.myshopify.com/admin/menus
 
 ***
 ###Footer Quickstart Guide
