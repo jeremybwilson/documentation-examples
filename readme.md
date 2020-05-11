@@ -10,7 +10,7 @@ This repo was created to make available documentation examples to Craig Young an
 ### Documentation Examples
 ---
 **Technical Documentation for technical audience**
-- [Setting up a Mac for Web Development](https://gist.github.com/jeremybwilson/31a8a7deda0504128111c519812456ec)
+- [Setting up a Mac for Web Development](https://gist.github.com/jeremybwilson/31a8a7deda0504128111c519812456ec) (**Format:** Github gist)
 
 **Technical Documentation for (non-technical) Shopify Admin end user**
 - [Client (redacted) - Footer Navigation Management Guide](https://github.com/jeremybwilson/documentation-examples/blob/master/Client%20Redacted%20Store%20Footer%20Navigation%20Guide.md)
