@@ -9,6 +9,10 @@ This repo was created to make available documentation examples to Craig Young an
 
 ### Documentation Examples
 ---
+
+**Project Charter example**
+- [Client Brand Style Guide Update](Client%20Redacted%20Store%20Footer%20Navigation%20Guide.pdf) (**Format:** .PDF)
+
 **Technical Documentation for technical audience**
 - [Setting up a Mac for Web Development](https://gist.github.com/jeremybwilson/31a8a7deda0504128111c519812456ec) (**Format:** Github gist)
 
@@ -27,4 +31,5 @@ This repo was created to make available documentation examples to Craig Young an
 **Markdown Resources:**
 
 - [Guide](https://www.markdownguide.org/)
+- [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
