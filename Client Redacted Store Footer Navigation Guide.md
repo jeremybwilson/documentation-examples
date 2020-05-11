@@ -2,17 +2,15 @@
 
 ## What will be covered
 1. Footer navigation 
-	* Main footer menu
-	* Copyright and privacy links menu
+  * Main footer menu
+  * Copyright and privacy links menu
 2. Customer service page sidenav 
-	* setup (add/edit/delete)
+  * setup (add/edit/delete)
 
-
-
-**URL:**
-**Ex.** http://--YOUR-STORE-NAME--.myshopify.com/admin/menus
+**Example URL:** [https://--YOUR-STORE-NAME--.myshopify.com/admin/menus](https://--YOUR-STORE-NAME--.myshopify.com/admin/menus)
 
 ***
+
 ###Footer Quickstart Guide
 
 ####NAVIGATION: - Add/Remove Nav Item:
