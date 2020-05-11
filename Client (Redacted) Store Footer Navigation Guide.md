@@ -1,6 +1,5 @@
 # Client (redacted) (Shopify) Store Footer Navigation Guide
 
-
 ## What will be covered
 1. Footer navigation 
 	* Main footer menu
@@ -12,6 +11,7 @@
 
 **URL:**
 <http://--YOUR-STORE--.myshopify.com/admin/menus> *(<strong>EX:</strong> <https://--YOUR-STORE--.myshopify.com/admin/pages>)*
+
 ***
 ###Footer Quickstart Guide
 

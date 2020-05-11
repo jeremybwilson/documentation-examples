@@ -1,8 +1,26 @@
 # Documentation Examples
 
-This repo was created to make available documentation examples to Craig Young and team. [Documentation Examples](https://github.com/jeremybwilson/documentation-examples).
+This repo was created to make available documentation examples to Craig Young and team. [Documentation Examples](#documentation-examples).
 
-## Technical Documentation for technical audience 
+This repo was created to make available documentation examples to Craig Young and team.
+
+This repo was created to make available documentation examples to Craig Young and team.
+
+This repo was created to make available documentation examples to Craig Young and team.
+
+This repo was created to make available documentation examples to Craig Young and team.
+
+This repo was created to make available documentation examples to Craig Young and team.
+
+This repo was created to make available documentation examples to Craig Young and team.
+
+This repo was created to make available documentation examples to Craig Young and team.
+
+This repo was created to make available documentation examples to Craig Young and team.
+
+This repo was created to make available documentation examples to Craig Young and team.
+
+## Technical Documentation for technical audience {#documentation-examples}
 - [Setting up a Mac for Web Development](https://gist.github.com/jeremybwilson/31a8a7deda0504128111c519812456ec)
 
 ## Technical Documentation for (non-technical) Shopify Admin end user
