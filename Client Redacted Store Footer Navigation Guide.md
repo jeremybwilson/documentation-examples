@@ -11,9 +11,9 @@
 
 ***
 
-###Footer Quickstart Guide
+### Footer Quickstart Guide
 
-####NAVIGATION: - Add/Remove Nav Item:
+#### NAVIGATION: - Add/Remove Nav Item:
 
 1. Go to Online Store > Navigation in Shopify Admin
 2. Find the location or nested entry you’d like your new collection to appear inside of 
@@ -24,7 +24,7 @@
 
 <center>Let's explore the client (redacted) footer navigation:</center>
 
-####A. Shopify Navigation (Menu List): 
+#### A. Shopify Navigation (Menu List): 
 You’ll find a list of all current menus setup in your store here, as well as the ability to make new menus.
 
 ![Shopify Navigation Menu List](https://i.imgur.com/SuNNgjZ.png)
@@ -43,11 +43,11 @@ You’ll find a list of all current menus setup in your store here, as well as t
 
 <center>Let's open up *Footer (main) menu* and see how it's set up.</center>
 
-####B. Footer Menu: About Us, Customer Service, and Quick Links
+#### B. Footer Menu: About Us, Customer Service, and Quick Links
 
 ![Footer Navigation Main Menu](https://i.imgur.com/qpkp98c.png)
 
-###List features:
+### List features:
 1. **DRAG + DROP ORDERING:**
 	- Order reflected top to bottom
 	- Menu items can be re-arranged (drag + drop) to change their order
@@ -64,19 +64,19 @@ You’ll find a list of all current menus setup in your store here, as well as t
 <center>**Next:** Entry Creation</center>
 
 
-####C. Footer Menu: Adding New Entries (Overview)
+#### C. Footer Menu: Adding New Entries (Overview)
 
 ![Footer Navigation Main Menu](https://i.imgur.com/XTQyT4S.png)
 
 
-####D. Footer Menu: Adding New Entries	
+#### D. Footer Menu: Adding New Entries	
 
 ![Footer Navigation Main Menu](https://i.imgur.com/6jZeHsO.png)
 
 <center>**Next:** Page linking versus External linking</center>
 
 
-####E. Footer Menu: Page linking versus External linking
+#### E. Footer Menu: Page linking versus External linking
 
 ![Footer Navigation About (redacted) step 1](https://i.imgur.com/yKRzqgT.png)
 
@@ -86,10 +86,10 @@ You’ll find a list of all current menus setup in your store here, as well as t
 
 <center>Now let's look at an external link example.</center>
 
-####F. Footer Menu: External (URL) Linking:
+#### F. Footer Menu: External (URL) Linking:
 
 ![Footer Navigation External Linking](https://i.imgur.com/KSaX37L.png)
-####Link features:
+#### Link features:
 1. **EXTERNAL (URL) LINKING:**
 	- Paste into the "Link" field any external URL.
 		- *<strong>EX:</strong> <https://--YOUR-STORE-NAME--.myshopify.com/admin/pages>*
@@ -103,7 +103,7 @@ You’ll find a list of all current menus setup in your store here, as well as t
 
 ***
 
-####A.  Footer (copyright) menu:  
+#### A.  Footer (copyright) menu:  
 The privacy menu in the footer is largely the same configuration as the previous example except that this menu has only one level and therefore no nesting.  Adding any additional links here should see them wrap and remain centered on the page.
 
 **Copyright menu features:**
